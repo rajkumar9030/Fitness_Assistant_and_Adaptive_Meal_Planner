@@ -1,0 +1,346 @@
+Full Body Health Checkup Report
+Field
+
+Value
+
+Name
+
+Hemanth Kumar
+
+Age
+
+22
+
+Gender
+
+Male
+
+Date of Birth
+
+10-Oct-2002
+
+Date of Checkup
+
+05-Aug-2025
+
+Height
+
+174 cm
+
+Weight
+
+72 kg
+
+BMI
+
+23.8 (Normal)
+
+Blood Group
+
+B+
+
+Lifestyle
+
+Moderately Active
+
+Diet Type
+
+Vegetarian
+
+Known Conditions
+
+None
+
+Allergies
+
+Lactose Intolerant
+
+Test
+
+Result
+
+Normal Range
+
+Body Temperature
+
+98.4 °F
+
+97 – 99 °F
+
+Blood Pressure (BP)
+
+118/76
+
+90/60 – 120/80 mmHg
+
+Pulse Rate
+
+74 bpm
+
+60 – 100 bpm
+
+Respiratory Rate
+
+16/min
+
+12 – 20/min
+
+Oxygen Saturation (SpO2)
+
+98%
+
+95 – 100%
+
+Test
+
+Result
+
+Normal Range
+
+Hemoglobin
+
+14.5 g/dL
+
+13 – 17 g/dL
+
+WBC Count
+
+6,500 /µL
+
+4,000 – 11,000
+
+RBC Count
+
+4.9 M/µL
+
+4.5 – 6.0
+
+Platelets
+
+2.2 Lakhs/µL
+
+1.5 – 4.0
+
+Hematocrit (HCT)
+
+44%
+
+38 – 50%
+
+Complete Blood Count (CBC)
+
+Blood Sugar & Lipid Profile
+Test
+
+Result
+
+Normal Range
+
+Fasting Blood Sugar
+
+92 mg/dL
+
+70 – 99 mg/dL
+
+Postprandial Blood Sugar
+
+128 mg/dL
+
+< 140 mg/dL
+
+HbA1c
+
+5.4%
+
+< 5.7%
+
+Total Cholesterol
+
+178 mg/dL
+
+< 200 mg/dL
+
+HDL
+
+52 mg/dL
+
+> 40 mg/dL
+
+LDL
+
+102 mg/dL
+
+< 130 mg/dL
+
+Triglycerides
+
+130 mg/dL
+
+< 150 mg/dL
+
+Liver Function Test (LFT)
+Test
+
+Result
+
+Normal Range
+
+SGOT (AST)
+
+28 U/L
+
+5 – 40 U/L
+
+SGPT (ALT)
+
+30 U/L
+
+7 – 56 U/L
+
+Alkaline Phosphatase
+
+95 U/L
+
+40 – 130 U/L
+
+Total Bilirubin
+
+0.8 mg/dL
+
+0.3 – 1.2 mg/dL
+
+Albumin
+
+4.5 g/dL
+
+3.4 – 5.4 g/dL
+
+Kidney Function Test (KFT)
+Test
+
+Result
+
+Normal Range
+
+Serum Creatinine
+
+0.9 mg/dL
+
+0.6 – 1.3 mg/dL
+
+Blood Urea
+
+28 mg/dL
+
+10 – 40 mg/dL
+
+Uric Acid
+
+5.6 mg/dL
+
+3.5 – 7.0 mg/dL
+
+Thyroid Function Test (TFT)
+Test
+
+Result
+
+Normal Range
+
+T3
+
+1.2 ng/mL
+
+0.8 – 2.0 ng/mL
+
+T4
+
+7.1 µg/dL
+
+5.0 – 12.0 µg/dL
+
+TSH
+
+2.3 µIU/mL
+
+0.4 – 4.0 µIU/mL
+
+Urine Analysis
+Test
+
+Result
+
+Normal
+
+Color
+
+Pale Yellow
+
+Pale Yellow
+
+Appearance
+
+Clear
+
+Clear
+
+pH Level
+
+6.0
+
+4.6 – 8.0
+
+Glucose
+
+Negative
+
+Negative
+
+Protein
+
+Negative
+
+Negative
+
+Physical Examination
+Area
+
+Observation
+
+Eyes
+
+Normal
+
+Skin
+
+Normal
+
+Abdomen
+
+No tenderness
+
+Heart Sounds
+
+Normal (S1, S2 audible)
+
+Lungs
+
+Clear on auscultation
+
+Reflexes
+
+Normal
+
+Joints
+
+No swelling or pain
+
+Doctor's Summary:
+General Health: Healthy and fit. No critical markers detected.
+Dietary Suggestion: Increase water intake. Include more fiber-rich foods.
+Physical Activity: Maintain current activity level or increase cardio workouts.
+Follow-Up: Re-check lipid profile and blood sugar in 6 months.
+Final Diagnosis: Fit for regular routine
+Note: Mild cholesterol elevation – not concerning but to be monitored.
+
+
